@@ -1,24 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <title>Authors on Yuanrui Fan</title>
+    <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/</link>
+    <description>Recent content in Authors on Yuanrui Fan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>**Yuanrui Fan**</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/yuanrui-fan/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/yuanrui-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Lo</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shanping Li</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/shanping-li/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/shanping-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Xia</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/xin-xia/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/xin-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am is currently a PhD student supervised by Prof. Shanping Li in the College of Computer Science and Technology, Zhejiang University, China. I am also supervised by &lt;a href=&#34;https://xin-xia.github.io/&#34; target=&#34;_blank&#34;&gt;Dr. Xin Xia&lt;/a&gt;. My research interests include mining software repositories, empirical software engineering and software analytics.&lt;/p&gt;
 </description>
     </item>
     

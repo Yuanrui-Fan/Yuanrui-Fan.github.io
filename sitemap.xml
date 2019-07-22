@@ -3,43 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/yuanrui-fan/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication_types/2/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/tse2018/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication_types/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/shanping-li/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/xin-xia/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/emse2018/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/jos2019/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/tse2019/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
