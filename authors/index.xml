@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
-    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,34 @@
     <item>
       <title>**Yuanrui Fan**</title>
       <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/yuanrui-fan/</link>
-      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/yuanrui-fan/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Ahmed E. Hassan</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/ahmed-e.-hassan/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/ahmed-e.-hassan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Alencar da Costa</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/daniel-alencar-da-costa/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/daniel-alencar-da-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>David Lo</title>
       <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/</link>
-      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/</guid>
       <description></description>
@@ -33,7 +51,7 @@
     <item>
       <title>Shanping Li</title>
       <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/shanping-li/</link>
-      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/shanping-li/</guid>
       <description></description>
@@ -42,9 +60,27 @@
     <item>
       <title>Xin Xia</title>
       <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/xin-xia/</link>
-      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/xin-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Cai</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/liang-cai/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/liang-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Yan</title>
+      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/meng-yan/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/meng-yan/</guid>
       <description></description>
     </item>
     
