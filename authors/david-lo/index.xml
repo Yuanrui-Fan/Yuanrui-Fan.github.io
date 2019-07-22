@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Lo on Yuanrui Fan</title>
-    <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/</link>
+    <link>https://Yuanrui-Fan.github.io/authors/david-lo/</link>
     <description>Recent content in David Lo on Yuanrui Fan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/authors/david-lo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://Yuanrui-Fan.github.io/authors/david-lo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction</title>
-      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/tse2019/</link>
+      <link>https://Yuanrui-Fan.github.io/publication/tse2019/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/tse2019/</guid>
+      <guid>https://Yuanrui-Fan.github.io/publication/tse2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chaff from the Wheat: Characterizing and Determining Valid Bug Reports</title>
-      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/tse2018/</link>
+      <link>https://Yuanrui-Fan.github.io/publication/tse2018/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/tse2018/</guid>
+      <guid>https://Yuanrui-Fan.github.io/publication/tse2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early prediction of merged code changes to prioritize reviewing tasks</title>
-      <link>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/emse2018/</link>
+      <link>https://Yuanrui-Fan.github.io/publication/emse2018/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Yuanrui-Fan/Yuanrui-Fan.github.io/publication/emse2018/</guid>
+      <guid>https://Yuanrui-Fan.github.io/publication/emse2018/</guid>
       <description></description>
     </item>
     
